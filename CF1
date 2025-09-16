@@ -13,3 +13,4 @@ git config -- glocal user.email"your email"
 git config -- global user.name"your username"
 
 git init = to creating a folder as a Repository
+commit changes
